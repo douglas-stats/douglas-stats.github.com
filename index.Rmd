@@ -1,5 +1,5 @@
 ---
-title: "douglas-stats website"
+title: "douglas-stats website's"
 author: "Douglas Hernandez"
 date: "26/8/2020"
 output: html_document
@@ -11,10 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## About
 
-Describe who you are. For example, what you are currently studying.
+Venezuelan Statistician passionate about Data Science. R programmer. Curious and  autodidact. Following sports, music and tech!
 
-Summarize your trajectory. You could mention what you've done. Like what you've stud\
-ied or where you've worked.
 
 ## Interests
 
@@ -30,10 +28,8 @@ ied or where you've worked.
 ## Profiles 
 
 * [LinkedIn](https://www.linkedin.com/in/douglas-hernández-30a0596a/)
-* ...
 * [GitHub](https://github.com/douglas-stats)
-  ...
-* [twitter](https://twitter.com/Doug_MUFC10)
+* [Twitter](https://twitter.com/Doug_MUFC10)
 
 ## Contact
 
