@@ -1,8 +1,11 @@
 ---
-title: "douglas-stats website's"
-author: "Douglas Hernandez"
-date: "26/8/2020"
-output: html_document
+title: "douglas-stats website"
+output:
+  html_document:
+    theme: spacelab
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
