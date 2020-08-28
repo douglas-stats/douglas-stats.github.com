@@ -12,6 +12,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+![](img/profile.JPG){width=200px}
+
 ## About
 
 Venezuelan Statistician passionate about Data Science. R programmer. Curious and  autodidact. Following sports, music and tech!
